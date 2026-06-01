@@ -3,7 +3,6 @@
 **`Desenvolvedora FullStack`**
 
 Me chamo Yasmin Nascimento, tenho 21 anos e sou natural de Brasília.  
-Concluí o ensino médio no Colégio Militar Dom Pedro II (CMDPII).  
 Atualmente, curso Engenharia de Software na Universidade de Brasília (UnB).  
 
 Sou apaixonada por tecnologia e compartilho meus projetos e aprendizados no LinkedIn e GitHub.  
